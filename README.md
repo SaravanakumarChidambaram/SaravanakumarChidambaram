@@ -34,5 +34,5 @@ integration performance.
 ## 🔹 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/saravanakumar-chidambaram-353a0224b/)  
 - [Email](mailto:cskumarmsc06@gmail.com)  
-- [GitHub Repos](https://github.com/yourusername)
+- [GitHub Repos](https://github.com/SaravanakumarChidambaram)
 
